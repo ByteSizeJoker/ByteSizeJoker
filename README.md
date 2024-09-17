@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Minecraft stuff
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me 1.Reach Black hole
+- 📫 How to reach me 1.IDK
 - 😄 Pronouns: HE/Him?Bananaaaa
 - ⚡ Fun fact: I am a joker that's a size of byte that's it hahaha
 
