@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ByteSizeJoker
-- 👀 I’m interested in Programming and Minecraft stuff
+- 👀 I’m interested in Programming and Software stuff
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me 1.IDK
-- 😄 Pronouns: HE/Him?Bananaaaa
-- ⚡ Fun fact: I am a joker that's a size of byte that's it hahaha
+- 😄 Pronouns: HE/Him
 
 <!---
 ByteSizeJoker/ByteSizeJoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
